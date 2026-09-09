@@ -1,10 +1,10 @@
-# Handwritten Digit Classifier — MNIST (Deep Neural Network)
+# 🛡️ Handwritten Digit Classifier — MNIST (Deep Neural Network)
 
 A production-style Deep Neural Network built with TensorFlow/Keras that classifies handwritten digits (0–9) from the MNIST dataset, achieving **98.44% test accuracy**. This project was completed as Module 13 of the Ostad AI/ML Engineering Program (Batch 6).
 
 ---
 
-## 📌 Project Overview
+## ❇️ Project Overview
 
 I built and trained a fully-connected Deep Neural Network (DNN) to solve the classic MNIST handwritten digit classification problem — a foundational computer vision task that demonstrates my understanding of neural network design, regularization, and training optimization. Rather than a minimal baseline model, I engineered a deeper architecture with Batch Normalization and Dropout to improve generalization, and used adaptive training callbacks to make the training process efficient and stable.
 
